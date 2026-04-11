@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
-
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 <br>
 
 **张雪机车创始人的认知操作系统。不是语录合集，是可运行的思维框架。**
@@ -220,18 +220,12 @@ zhangxue-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-MIT — 随便用，随便改。
-
 ---
 
 <div align="center">
 
-*以扳手为剑，以热爱为甲。*
-
-<br>
-
 MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
